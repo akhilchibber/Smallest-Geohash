@@ -49,11 +49,11 @@ To use this script, ensure Python is installed on your system along with necessa
 
 We welcome contributions to enhance the functionality and efficiency of this script. Feel free to fork, modify, and make pull requests to this repository. To contribute:
 
-Fork the Project.
-Create your Feature Branch (git checkout -b feature/AmazingFeature).
-Commit your Changes (git commit -m 'Add some AmazingFeature').
-Push to the Branch (git push origin feature/AmazingFeature).
-Open a Pull Request against the main branch.
+1. Fork the Project.
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the Branch (`git push origin feature/AmazingFeature`).
+5. Open a Pull Request against the `main` branch.
 
 ## License
 
