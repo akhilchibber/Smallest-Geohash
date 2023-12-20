@@ -61,7 +61,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for more
 
 ## Contact
 
-Author - Akhil Chhibber
+Author: Akhil Chhibber
 
 LinkedIn: https://www.linkedin.com/in/akhilchhibber/
 
