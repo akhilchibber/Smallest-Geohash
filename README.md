@@ -66,3 +66,5 @@ Author: Akhil Chhibber
 LinkedIn: https://www.linkedin.com/in/akhilchhibber/
 
 Blog: https://medium.com/@akhil.chibber/finding-the-smallest-geohash-to-bound-geospatial-dataset-ece3a457b443
+
+Medium Blogs: https://medium.com/@akhil.chibber
